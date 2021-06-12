@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AshutoshDubey1
+- 👋 Hi, I’m Ashutosh 
 - 👀 I’m interested in embedded real time systems
 - 🌱 I’m currently learning datamining
 - 💞️ I’m looking to collaborate on ...anything exciting 
